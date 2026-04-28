@@ -1,16 +1,23 @@
-# tourist_safety_app
+# Tourist Safety App
 
-A new Flutter project.
+An AI-powered mobile application designed to enhance tourist safety using real-time location tracking and emergency response features.
 
-## Getting Started
+## Features
+- Live Google Maps integration
+- SOS emergency alert
+- Location sharing
+- Nearby safe place detection
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- Flutter
+- Google Maps API
+- Geolocator
+- Firebase (planned)
 
-A few resources to get you started if this is your first Flutter project:
+## Demo
+(Add your video link here)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Future Improvements
+- AI risk prediction
+- Real-time alerts
+- Crowd-sourced safety data
