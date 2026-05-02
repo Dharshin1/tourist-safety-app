@@ -25,7 +25,7 @@ Android Emulator or physical device
 Google Maps API Key
 Steps to Run
 Clone the repository:
-git clone https://github.com/YOUR_USERNAME/tourist-safety-app.git
+git clone https://github.com/Dharshin1/tourist-safety-app.git
 cd tourist-safety-app
 Install dependencies:
 flutter pub get
